@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73407c60-21a8-4bd0-a079-52334161642f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/You Tube Content.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transparent Login Webpage/HTMLFile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transparent Login Webpage/HTMLFile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Transparent Login Webpage/gaurs_universe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="73407c60-21a8-4bd0-a079-52334161642f" name="Default Changelist" comment="final commit">
+      <change beforePath="$PROJECT_DIR$/Transparent Login Webpage/HTMLFile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Transparent Login Webpage/file2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transparent Login Webpage/HTMLFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Transparent Login Webpage/file1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +69,16 @@
       <workItem from="1606250835928" duration="2949000" />
       <workItem from="1606497990140" duration="144000" />
       <workItem from="1606498222549" duration="9269000" />
+      <workItem from="1606586319649" duration="917000" />
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1606586395157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606586395157</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,11 +96,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606501290224">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606501290224" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606586515568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606586515568" />
     <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1606501392591">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
